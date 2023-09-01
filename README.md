@@ -1,3 +1,7 @@
+# Youtube Main Page Clone with Tailwind and React
+
+My first React and Tailwind project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
