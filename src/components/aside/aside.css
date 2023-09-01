@@ -1,0 +1,13 @@
+/* custom scroll bar */
+::-webkit-scrollbar {
+  width: 5px;
+  background-color: #1f2937;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #3c4a5d;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #38404e;
+}
