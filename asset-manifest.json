@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tailwind-react-youtube-clone/static/css/main.68deafec.css",
+    "main.js": "/tailwind-react-youtube-clone/static/js/main.8ab8ab25.js",
+    "index.html": "/tailwind-react-youtube-clone/index.html",
+    "main.68deafec.css.map": "/tailwind-react-youtube-clone/static/css/main.68deafec.css.map",
+    "main.8ab8ab25.js.map": "/tailwind-react-youtube-clone/static/js/main.8ab8ab25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68deafec.css",
+    "static/js/main.8ab8ab25.js"
+  ]
+}
