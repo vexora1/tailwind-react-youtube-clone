@@ -5,7 +5,7 @@ const NavbarLeft = () => {
         <i className="fas fa-bars"></i>
       </div>
       <div className="navbar__logo h-full">
-        <img className="h-5 mx-auto" src="/images/logo.png" alt="logo" />
+        <img className="h-5 mx-auto" src="images/logo.png" alt="logo" />
       </div>
     </div>
   );

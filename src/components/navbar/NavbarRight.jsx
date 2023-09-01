@@ -23,7 +23,7 @@ const NavbarRight = () => {
                 ring-gray-700
                 focus:outline-none
               "
-          src="/images/user_pp.png"
+          src="images/user_pp.png"
           alt="avatar"
         />
       </div>
